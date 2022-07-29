@@ -1,0 +1,41 @@
+Array
+(
+    [update_id] => 947036694
+    [message] => Array
+        (
+            [message_id] => 23
+            [from] => Array
+                (
+                    [id] => 562002620
+                    [is_bot] => 
+                    [first_name] => Dante
+                    [last_name] => Way
+                    [username] => num16th
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 562002620
+                    [first_name] => Dante
+                    [last_name] => Way
+                    [username] => num16th
+                    [type] => private
+                )
+
+            [date] => 1659084516
+            [text] => /about
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
